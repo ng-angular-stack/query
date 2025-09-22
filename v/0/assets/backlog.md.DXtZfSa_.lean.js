@@ -1,1 +1,0 @@
-import{_ as t,c as o,o as a,ae as i}from"./chunks/framework.BLIJt2m0.js";const m=JSON.parse('{"title":"Backlog","description":"","frontmatter":{},"headers":[],"relativePath":"backlog.md","filePath":"backlog.md"}'),r={name:"backlog.md"};function l(s,e,n,d,c,h){return a(),o("div",null,[...e[0]||(e[0]=[i("",5)])])}const p=t(r,[["render",l]]);export{m as __pageData,p as default};
